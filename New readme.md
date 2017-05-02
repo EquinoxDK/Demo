@@ -1,0 +1,1 @@
+Dette er en ny readme for at teste Git integration
